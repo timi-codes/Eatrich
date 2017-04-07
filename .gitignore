@@ -1,0 +1,53 @@
+# Config and Htaccess Files
+/store/.htaccess
+/store/config.php
+/store/config.php
+# Image File
+!/store/image/no_image.jpg
+
+# Image Cache Files
+/store/image/cache/*
+!/store/image/cache/index.html
+
+# System Cache Files
+/store/system/storage/cache/*
+!/store/system/storage/cache/index.html
+
+# Modification Files
+/store/system/storage/modification/*
+!/store/system/storage/modification/index.html
+
+# Templates Files
+/store/image/templates/*
+/store/image/templates/default.jpg
+
+# Download Files
+/store/system/storage/download/*
+!/store/system/storage/download/index.html
+
+# Upload Files
+/store/system/storage/upload/*
+!/store/system/storage/upload/index.html
+
+# Flags 
+# remove sharp char if you want to add flags to gitignore
+# /store/flags/*
+
+# Log Files
+/store/system/storage/logs/*
+!/store/system/storage/logs/index.html
+
+# If you want to ignore install file use following lines [on development mode]
+# /store/backup.install/*
+# /store/install/*
+
+# Ignore all vendor files included by composer and the lock file
+/tests/phpunit/vendor/*
+/tests/phpunit/composer.lock
+/vendor/*
+
+# Test Config File
+/tests/phpunit/bootstrap.php
+
+# IDE Project files
+/.idea

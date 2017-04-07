@@ -1,0 +1,25 @@
+2017-04-06 8:37:56 - PHP Notice:  Undefined index: thumb_swap in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/extension/module/featured.tpl on line 8
+2017-04-06 8:37:57 - PHP Notice:  Undefined index: thumb_swap in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/extension/module/featured.tpl on line 8
+2017-04-06 8:37:57 - PHP Notice:  Undefined index: thumb_swap in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/extension/module/featured.tpl on line 8
+2017-04-06 8:37:57 - PHP Notice:  Undefined index: thumb_swap in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/extension/module/featured.tpl on line 8
+2017-04-06 8:37:58 - PHP Notice:  Undefined variable: brand_heading_title in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/extension/module/carousel.tpl on line 2
+2017-04-06 8:38:00 - PHP Notice:  Undefined variable: footer_top in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/footer.tpl on line 4
+2017-04-06 8:38:00 - PHP Notice:  Undefined variable: footer_left in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/footer.tpl on line 9
+2017-04-06 8:38:00 - PHP Notice:  Undefined variable: footer_right in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/footer.tpl on line 58
+2017-04-06 8:38:00 - PHP Notice:  Undefined variable: footer_bottom in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/footer.tpl on line 64
+2017-04-06 8:38:11 - PHP Notice:  Undefined variable: text_category in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/search.tpl on line 4
+2017-04-06 8:38:12 - PHP Notice:  Undefined variable: categories in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/search.tpl on line 5
+2017-04-06 8:38:12 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/search.tpl on line 5
+2017-04-06 8:38:15 - PHP Notice:  Undefined variable: text_cart_heading in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/cart.tpl on line 4
+2017-04-06 8:38:15 - PHP Notice:  Undefined variable: header_top in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/header.tpl on line 53
+2017-04-06 8:38:15 - PHP Notice:  Undefined variable: header_left in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/header.tpl on line 62
+2017-04-06 8:38:15 - PHP Notice:  Undefined variable: header_right in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/header.tpl on line 113
+2017-04-06 8:38:15 - PHP Notice:  Undefined variable: header_bottom in /Applications/MAMP/htdocs/Eatrich/store/catalog/view/theme/OPC040_05/template/common/header.tpl on line 124
+2017-04-06 10:37:28 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/Eatrich/store/admin/controller/extension/module/tt_product_tab.php on line 163
+2017-04-06 10:55:04 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /Applications/MAMP/htdocs/Eatrich/store/system/library/db/mysqli.php on line 7
+2017-04-06 10:55:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/Eatrich/store/system/library/db/mysqli.php on line 10
+2017-04-06 10:55:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/Eatrich/store/system/library/db/mysqli.php on line 10
+2017-04-06 12:31:54 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/Eatrich/store/system/library/db/mysqli.php on line 7
+2017-04-06 12:31:54 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/Eatrich/store/system/library/db/mysqli.php on line 7
+2017-04-06 12:31:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/Eatrich/store/system/library/db/mysqli.php on line 10
+2017-04-06 12:31:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/Eatrich/store/system/library/db/mysqli.php on line 10

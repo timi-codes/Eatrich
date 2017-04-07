@@ -1,0 +1,1 @@
+SELECT * FROM members WHERE inviteid IN (SELECT myid FROM members WHERE inviteid="ERNG002")
